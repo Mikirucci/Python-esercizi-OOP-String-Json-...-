@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "titolo": "1984",
+        "autore": "George Orwell"
+    },
+    {
+        "id": 2,
+        "titolo": "Il Signore degli Anelli",
+        "autore": "J.R.R. Tolkien"
+    },
+    {
+        "id": 3,
+        "titolo": "Harry Potter",
+        "autore": "J.K. Rowling"
+    }
+]
